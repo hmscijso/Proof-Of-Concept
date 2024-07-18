@@ -1,2 +1,1 @@
-# ghusse
-Subdomain takeover INTIGRITI - independer
+#poc
